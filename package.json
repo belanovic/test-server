@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload":"git add . && git commit -m 'msg' && git push origin main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
